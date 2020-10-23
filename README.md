@@ -27,8 +27,7 @@ I'm a Control engineering student who is passionate about writing code, solving 
 - 😄 Pronouns: him
 - 📫 How to reach me: 
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)]
-(mailto:yqxu0713@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true)
 
