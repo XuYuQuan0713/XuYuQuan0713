@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+
+<img width="35%" align="right" alt="Github" src="https://github.com/XuYuQuan0713/Picture/blob/main/rick.gif" />
+
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 🔭 I’m currently studying for a master's degree in Hefei University of Technology.
+- 📚 I like to explore new things.
+- 👯 I want to be engaged in embedded work in the future.
+- 😄 Pronouns: him
+- 📫 How to reach me: [BiliBli](https://space.bilibili.com/286892977) [Gmail](mailto:yqxu0713@gmail.com)
+
+⭐️ From [Orange](https://github.com/XuYuQuan0713)
+Inspired from [Orange](https://github.com/XuYuQuan0713)
