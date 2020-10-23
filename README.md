@@ -27,5 +27,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 😄 Pronouns: him
 - 📫 How to reach me: [BiliBili](https://space.bilibili.com/286892977) [Gmail](mailto:yqxu0713@gmail.com)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true)
+
 ⭐️ From [Orange](https://github.com/XuYuQuan0713)
 Inspired from [Orange](https://github.com/XuYuQuan0713)
