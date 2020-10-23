@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="24px">
+### Hi world!  <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
 
 <img width="35%" align="right" alt="Github" src="https://github.com/XuYuQuan0713/Picture/blob/main/rick.gif" />
 
