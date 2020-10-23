@@ -31,6 +31,7 @@ I'm a Control engineering student who is passionate about writing code, solving 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true)
+<img width="35%" align="right" alt="Github" src="https://github.com/XuYuQuan0713/Picture/blob/main/rick.gif" />
 
 ⭐️ From [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/XuYuQuan0713)](https://github.com/XuYuQuan0713)
 Inspired from [Orange](https://github.com/XuYuQuan0713)
