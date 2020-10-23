@@ -25,8 +25,7 @@ I'm a Control engineering student who is passionate about writing code, solving 
 - 📚 I like to explore new things.
 - 👯 I want to be engaged in embedded work in the future.
 - 😄 Pronouns: him
-- 📫 How to reach me: [BiliBili](https://space.bilibili.com/286892977)  [微博](https://weibo.com/u/5095847284?is_all=1)   [Email](mailto:yqxu0713@gmail.com)
-
+- 📫 How to reach me: 
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)]
 (mailto:yqxu0713@gmail.com)
