@@ -28,10 +28,9 @@ I'm a Control engineering student who is passionate about writing code, solving 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true)![](http://antzuhl.cn:4000/get/@Orange.readme)
-
-<table><tr>
-<td><![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true)></td>
-<td><![](http://antzuhl.cn:4000/get/@Orange.readme)></td>
-</tr></table>
+ <div>
+     ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true)
+    <span>![](http://antzuhl.cn:4000/get/@Orange.readme)</span>
+ </div>
 
 ⭐️ From [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/XuYuQuan0713)](https://github.com/XuYuQuan0713)
