@@ -29,7 +29,7 @@ I'm a Control engineering student who is passionate about writing code, solving 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true)![](http://antzuhl.cn:4000/get/@Orange.readme)
  <div>
-     ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true)
+     ![Github Stats](https://github-readme-stats.vercel.app/api?username=yuquanXu&show_icons=true);
     <span>![](http://antzuhl.cn:4000/get/@Orange.readme)</span>
  </div>
 
