@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img width="35%" align="right" alt="Github" src="https://github.com/XuYuQuan0713/Picture/blob/main/rick.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Control engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently studying for a master's degree in Hefei University of Technology.
 - 📚 I like to explore new things.
