@@ -25,7 +25,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I like to explore new things.
 - 👯 I want to be engaged in embedded work in the future.
 - 😄 Pronouns: him
-- 📫 How to reach me: [BiliBli](https://space.bilibili.com/286892977) [Gmail](mailto:yqxu0713@gmail.com)
+- 📫 How to reach me: [BiliBili](https://space.bilibili.com/286892977) [Gmail](mailto:yqxu0713@gmail.com)
 
 ⭐️ From [Orange](https://github.com/XuYuQuan0713)
 Inspired from [Orange](https://github.com/XuYuQuan0713)
