@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...                                   <div align="right"><img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+- 🔭 I’m currently working on ...                                   
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi world!  <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
 I'm a Control engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 - 🔭 I’m currently studying for a master's degree in Hefei University of Technology.
-- 📚 I like to explore new things.
+- 📚 I like to explore new things.                                          <div align="right"><img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 - 👯 I want to be engaged in embedded work in the future.
 - 😄 Pronouns: him.                   
 - 📫 How to reach me:
