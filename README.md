@@ -30,12 +30,11 @@ I'm a Control engineering student who is passionate about writing code, solving 
 Visitor's count :eyes:<img align="center" src="https://profile-counter.glitch.me/{XuYuQuan0713}/count.svg" alt="XuYuQuan0713 :: Visitor's Count" />
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/XuYuQuan0713">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XuYuQuan0713&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuYuQuan0713&theme=buefy&layout=compact" />
 </a>
 
 <br/>
-![YuQuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuYuQuan0713&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuYuQuan0713&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 ⭐️ From [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/XuYuQuan0713)](https://github.com/XuYuQuan0713)
