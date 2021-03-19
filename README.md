@@ -35,5 +35,5 @@ I'm a Control engineering student who is passionate about writing code, solving 
 </a>
 
 <br/>
-Visitor's count :eyes:<img align="center" src="https://profile-counter.glitch.me/{XuYuQuan0713}/count.svg" alt="XuYuQuan0713 :: Visitor's Count" />
+#### Thanks for visiting :eyes:<img align="center" src="https://profile-counter.glitch.me/{XuYuQuan0713}/count.svg" alt="XuYuQuan0713 :: Visitor's Count" />
 ⭐️ From [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/XuYuQuan0713)](https://github.com/XuYuQuan0713)
