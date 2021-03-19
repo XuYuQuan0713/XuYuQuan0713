@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 ### Hi world!  <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
 I'm a Control engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 - 🔭 I’m currently studying for a master's degree in Hefei University of Technology.
-- 📚 I like to explore new things.<div align="right"><img src="https://i.imgur.com/8MupZHY.gif" width="100px" />
-- 👯 I want to be engaged in embedded work in the future.
+- 📚 I like to explore new things.<div align="right"><img src="https://i.imgur.com/8MupZHY.gif" width="100px" />- 👯 I want to be engaged in embedded work in the future.
 - 😄 Pronouns: him.                   
 - 📫 How to reach me:
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)
