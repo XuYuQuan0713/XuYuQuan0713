@@ -27,7 +27,6 @@ I'm a Control engineering student who is passionate about writing code, solving 
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
 
-Visitor's count :eyes:<img align="center" src="https://profile-counter.glitch.me/{XuYuQuan0713}/count.svg" alt="XuYuQuan0713 :: Visitor's Count" />
 <br/>
 
 <a href="https://github.com/XuYuQuan0713">
@@ -36,5 +35,5 @@ Visitor's count :eyes:<img align="center" src="https://profile-counter.glitch.me
 </a>
 
 <br/>
-
+Visitor's count :eyes:<img align="center" src="https://profile-counter.glitch.me/{XuYuQuan0713}/count.svg" alt="XuYuQuan0713 :: Visitor's Count" />
 ⭐️ From [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/XuYuQuan0713)](https://github.com/XuYuQuan0713)
