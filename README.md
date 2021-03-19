@@ -21,9 +21,9 @@ I'm a Control engineering student who is passionate about writing code, solving 
 - 🔭 I’m currently studying for a master's degree in Hefei University of Technology.
 - 📚 I like to explore new things.
 - 👯 I want to be engaged in embedded work in the future.<div align=right><img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 100" height="450" /></div>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 - 😄 Pronouns: him.                   
 - 📫 How to reach me:
-
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
 <br/>
