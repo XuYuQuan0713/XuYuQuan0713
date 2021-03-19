@@ -25,7 +25,7 @@ I'm a Control engineering student who is passionate about writing code, solving 
 <br/>
 <a href="https://github.com/XuYuQuan0713">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XuYuQuan0713&theme=radical&show_icons=true" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuYuQuan0713&theme=radical&layout=compact" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuYuQuan0713&theme=dracula&layout=compact" />
 </a>
 <br/>
 
