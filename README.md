@@ -19,13 +19,16 @@ Here are some ideas to get you started:
 
 I'm a Control engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 - 🔭 I’m currently studying for a master's degree in Hefei University of Technology.
-- 📚 I like to explore new things.<img width="35%" align="right" alt="Github" src="https://github.com/XuYuQuan0713/Picture/blob/main/rick.gif" />
+- 📚 I like to explore new things.
 - 👯 I want to be engaged in embedded work in the future.
-- 😄 Pronouns: him
+- 😄 Pronouns: him.                   
 - 📫 How to reach me:
 
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
+
+Visitor's count :eyes:
+<img align="right" src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" />
 
 ![YuQuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuYuQuan0713&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuYuQuan0713&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
