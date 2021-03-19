@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center"><img src="https://i.imgur.com/8MupZHY.gif" width="200px" />
- 
 ### Hi world!  <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
 I'm a Control engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 - 🔭 I’m currently studying for a master's degree in Hefei University of Technology.
