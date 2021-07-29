@@ -22,7 +22,6 @@ I'm a Control engineering student who is passionate about writing code, solving 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
 <br/>
 <a href="https://github.com/XuYuQuan0713">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XuYuQuan0713&theme=dracula&hide=stars&show_icons=true&line_height=32" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuYuQuan0713&theme=dracula&count_private=true&layout=compact" />
 </a>
 <br/>
