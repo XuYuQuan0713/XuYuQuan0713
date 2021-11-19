@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a Control engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 <!-- - 👯 I want to be engaged in embedded work in the future.
 - 🌱 I’m currently learning path planning. -->                  
-- 📫 How to reach me:[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
+- 📫 How to reach me: 🏹️[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yqxu0713@gmail.com)](mailto:yqxu0713@gmail.com)
 <!--[![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)-->
 <br/>
 <a href="https://github.com/XuYuQuan0713">
