@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi world!  
-<img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
+
 I'm a Control engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
 <!-- - 👯 I want to be engaged in embedded work in the future.
 - 🌱 I’m currently learning path planning. -->                  
